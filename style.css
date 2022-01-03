@@ -1,9 +1,9 @@
 h3 {
-    color: black;
-    background-color: white;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     font-size: 20px;
 }
 
 p {
-    color: tomato;
+    color: red;
 }
